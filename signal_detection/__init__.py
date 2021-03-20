@@ -1,2 +1,3 @@
 import signal_detection.measures
+import signal_detection.base
 import signal_detection.models
