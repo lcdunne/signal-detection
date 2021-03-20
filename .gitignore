@@ -5,6 +5,8 @@ roc_steps.txt
 data/retrieval_data.csv
 tests/
 README_OLD.md
+todo.txt
+setup.py
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
