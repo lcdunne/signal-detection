@@ -1,7 +1,7 @@
 '''Add custom models to this module.'''
 import numpy as np
 from scipy import stats
-from base import BaseModel
+from .base import BaseModel
 
 
 class HighThreshold(BaseModel):
